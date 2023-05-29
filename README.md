@@ -46,8 +46,8 @@
 ## Output:
 ![7L](https://github.com/JEGADEESH07/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497131/e4bdd243-b82e-4ceb-86a8-0123d56811ed)
 
-### Name: ABISHEK XAVIER A
-### Register Number: 212222230004
+### Name: BHARATHWAJ R
+### Register Number: 212222240019
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
